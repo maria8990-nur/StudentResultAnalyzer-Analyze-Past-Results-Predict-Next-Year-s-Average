@@ -72,4 +72,4 @@ Predicted Average for 2025: 80.3
 
 ## 📝 Author
 
-Created by **A S M Tauhid Rahman** to demonstrate basic data analysis and prediction with Python.
+Created by **Maria Nur Tamanna** to demonstrate basic data analysis and prediction with Python.
